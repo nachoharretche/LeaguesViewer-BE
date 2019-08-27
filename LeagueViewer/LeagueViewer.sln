@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueViewer.Api", "LeagueViewer.Api\LeagueViewer.Api.csproj", "{FB092D12-A161-4C18-89B2-41B6C842EEE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeagueViewer.DataAccess", "LeagueViewer.DataAccess\LeagueViewer.DataAccess.csproj", "{590B8BCA-75E5-40C5-A97E-B4A994437DDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeagueViewer.Entities", "LeagueViewer.Entities\LeagueViewer.Entities.csproj", "{39FB30FD-88AF-4AF5-9054-85EA66E61781}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeagueViewer.Repository", "LeagueViewer.Repository\LeagueViewer.Repository.csproj", "{6F81659A-E21C-4780-A77F-C2D0791BA672}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeagueViewer.Services", "LeagueViewer.Services\LeagueViewer.Services.csproj", "{35AABC16-A844-4D60-97B0-7CE8DF14BA05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB092D12-A161-4C18-89B2-41B6C842EEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB092D12-A161-4C18-89B2-41B6C842EEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB092D12-A161-4C18-89B2-41B6C842EEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB092D12-A161-4C18-89B2-41B6C842EEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590B8BCA-75E5-40C5-A97E-B4A994437DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590B8BCA-75E5-40C5-A97E-B4A994437DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590B8BCA-75E5-40C5-A97E-B4A994437DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590B8BCA-75E5-40C5-A97E-B4A994437DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FB30FD-88AF-4AF5-9054-85EA66E61781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FB30FD-88AF-4AF5-9054-85EA66E61781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FB30FD-88AF-4AF5-9054-85EA66E61781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FB30FD-88AF-4AF5-9054-85EA66E61781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F81659A-E21C-4780-A77F-C2D0791BA672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F81659A-E21C-4780-A77F-C2D0791BA672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F81659A-E21C-4780-A77F-C2D0791BA672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F81659A-E21C-4780-A77F-C2D0791BA672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AABC16-A844-4D60-97B0-7CE8DF14BA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AABC16-A844-4D60-97B0-7CE8DF14BA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AABC16-A844-4D60-97B0-7CE8DF14BA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AABC16-A844-4D60-97B0-7CE8DF14BA05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4DA28D-0D57-41AD-8E3E-2B8821FE505F}
+	EndGlobalSection
+EndGlobal
